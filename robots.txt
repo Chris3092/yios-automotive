@@ -1,0 +1,79 @@
+# Michalis Vrachimis & Yios Automotive Garage Ltd
+# https://mvrachimisautomotive.com/
+
+# === Standard search engines ===
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# === AI / LLM crawlers (explicitly allowed for visibility in AI answers) ===
+
+# OpenAI – ChatGPT search & training
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic – Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Google – Gemini, AI Overviews, Vertex
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Apple – Apple Intelligence / Siri
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Microsoft – Bing & Copilot
+User-agent: bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+# Common Crawl (used to train most major LLMs)
+User-agent: CCBot
+Allow: /
+
+# Meta / Facebook
+User-agent: FacebookBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Yandex (significant Russian-speaker audience in Cyprus)
+User-agent: YandexBot
+Allow: /
+
+# Sitemaps
+Sitemap: https://mvrachimisautomotive.com/sitemap.xml
