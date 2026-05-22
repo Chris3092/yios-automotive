@@ -103,6 +103,47 @@
     revealEls.forEach(el => io.observe(el));
   }
 
+  // ---- Hero slider (carousel) ----
+  const heroSlider = document.querySelector('.hero-slider');
+  if (heroSlider) {
+    const slides = Array.from(heroSlider.querySelectorAll('.hero-slide'));
+    const dots = Array.from(heroSlider.querySelectorAll('.hero-dot'));
+    const prevBtn = heroSlider.querySelector('.hero-arrow.prev');
+    const nextBtn = heroSlider.querySelector('.hero-arrow.next');
+    let idx = slides.findIndex(s => s.classList.contains('is-active'));
+    if (idx < 0) idx = 0;
+    let timer = null;
+    const interval = 6500;
+
+    function go(n) {
+      slides[idx].classList.remove('is-active');
+      if (dots[idx]) dots[idx].classList.remove('is-active');
+      idx = (n + slides.length) % slides.length;
+      slides[idx].classList.add('is-active');
+      if (dots[idx]) dots[idx].classList.add('is-active');
+    }
+    function next() { go(idx + 1); }
+    function prev() { go(idx - 1); }
+    function start() {
+      stop();
+      timer = setInterval(next, interval);
+    }
+    function stop() {
+      if (timer) { clearInterval(timer); timer = null; }
+    }
+
+    dots.forEach((d, i) => d.addEventListener('click', () => { go(i); start(); }));
+    if (nextBtn) nextBtn.addEventListener('click', () => { next(); start(); });
+    if (prevBtn) prevBtn.addEventListener('click', () => { prev(); start(); });
+    heroSlider.addEventListener('mouseenter', stop);
+    heroSlider.addEventListener('mouseleave', start);
+    // Pause when tab hidden, resume when visible
+    document.addEventListener('visibilitychange', () => {
+      if (document.hidden) stop(); else start();
+    });
+    start();
+  }
+
   // ---- Update copyright year ----
   const yearEl = document.querySelector('[data-year]');
   if (yearEl) yearEl.textContent = new Date().getFullYear();
