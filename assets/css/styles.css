@@ -1150,11 +1150,11 @@ button.video-card:focus-visible { outline: 2px solid var(--accent-2); outline-of
   position: relative;
   width: 100%;
   min-height: 86vh;
-  display: block;
+  display: grid;
 }
 .hero-slide {
-  position: absolute;
-  inset: 0;
+  grid-column: 1;
+  grid-row: 1;
   display: grid;
   align-items: center;
   opacity: 0;
@@ -1166,7 +1166,6 @@ button.video-card:focus-visible { outline: 2px solid var(--accent-2); outline-of
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
-  position: relative;
 }
 .hero-slide .hero-inner { width: 100%; }
 
@@ -1240,7 +1239,56 @@ button.video-card:focus-visible { outline: 2px solid var(--accent-2); outline-of
 }
 .hero-bhp-strip .txt .accent { color: var(--accent); }
 
-/* Slide 3 — Warranty */
+/* Slide 3 — Other brands serviced (multi-brand expertise) */
+.hero-allmakes-card {
+  border-radius: 22px;
+  border: 1px solid var(--line);
+  background:
+    linear-gradient(180deg, rgba(225,6,0,0.10), transparent 55%),
+    linear-gradient(135deg, #1a1f26 0%, #0c0f13 100%);
+  padding: 1.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  box-shadow: var(--shadow);
+  aspect-ratio: 4/5;
+  justify-content: center;
+}
+.hero-allmakes-card .label {
+  font-size: .72rem;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: var(--accent-2);
+  font-weight: 800;
+  text-align: center;
+}
+.hero-allmakes-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: .55rem;
+}
+.hero-allmakes-grid .tile {
+  background: rgba(255,255,255,.04);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: .8rem .5rem;
+  text-align: center;
+  font-weight: 800;
+  letter-spacing: .08em;
+  color: #fff;
+  font-size: .92rem;
+}
+.hero-allmakes-foot {
+  text-align: center;
+  font-size: .7rem;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: #c8cdd4;
+  font-weight: 700;
+  padding-top: .15rem;
+}
+
+/* Slide 4 — Warranty */
 .hero-warranty-card {
   border-radius: 22px;
   border: 1px solid rgba(225,6,0,0.35);
@@ -1341,6 +1389,7 @@ button.video-card:focus-visible { outline: 2px solid var(--accent-2); outline-of
   .hero-slider { min-height: auto; }
   .hero-arrow { display: none; }
   .hero-authorized-card,
+  .hero-allmakes-card,
   .hero-warranty-card { aspect-ratio: auto; padding: 1.5rem; }
   .hero-controls { bottom: .9rem; }
 }
