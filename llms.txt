@@ -8,20 +8,20 @@ The business is registered as **Michalis Vrachimis & Yios Automotive Garage Ltd*
 
 - Founded **1976** by Michalis Vrachimis in Paralimni, Cyprus
 - Re-engineered and modernised in **2009** by his son **Anninos Vrachimis**, BEng + MEng Automotive Engineering (Teesside University, UK, 2010–2015), with workshop experience at Mercedes-Benz and BMW
-- **700 m²** modern workshop with **eleven ramps** and an in-house **dyno**
+- **700 m²** modern workshop with **eleven ramps** and a full multi-brand diagnostic centre, backed by a trusted partner-dyno facility for performance validation
 - Reception managed by **Despina Vrachimis**
 - **Authorized service centre** for **Honda**, **Isuzu** and **Kia** in the Ammochostos (Famagusta) district of Cyprus
 - **Main BHP UK agent in Cyprus** for ECU remapping
-- Highest documented tune: **Mitsubishi Evo IX, 276 → 700 bhp**, dyno-validated
+- Highest documented tune: **Mitsubishi Evo IX, 276 → 700 bhp**, partner-dyno-validated
 
 ## Services we offer
 
 1. **Vehicle Diagnostics & MOT** — multi-brand manufacturer-level scan tools, oscilloscope fault tracing, live data analysis, pre-MOT inspection and full MOT testing, faults documented with photos and video sent to the client's phone
-2. **ECU Remapping & Chip Tuning** — official BHP UK agent in Cyprus, Stage 1 / Stage 2 / Stage 3 maps for petrol, diesel, hybrid and forced-induction engines, including economy maps for fleets, with dyno-validated before/after graphs. **Every Tuesday: 20% off all ECU remapping, EGR delete and power tuning ("Tuesday Tuners' Day")**
+2. **ECU Remapping & Chip Tuning** — official BHP UK agent in Cyprus, Stage 1 / Stage 2 / Stage 3 maps for petrol, diesel, hybrid and forced-induction engines, including economy maps for fleets, validated through real-world road testing and partner-dyno runs with before/after graphs. **Every Tuesday: 20% off all ECU remapping, EGR delete and power tuning ("Tuesday Tuners' Day")**
 3. **DPF Cleaning, Regeneration & Delete** — off-vehicle cleaning and flow-testing, forced regeneration via diagnostic tool, full DPF delete with ECU recalibration where legally permissible
 4. **EGR Delete & AdBlue Service** — EGR repair, replacement or delete; AdBlue diagnosis, repair and removal; ECU recalibration so no warning lights remain
 5. **Engine Rebuilds & Overhauls** — top-end and bottom-end rebuilds, cylinder-head reconditioning, forged-internals builds for turbocharged engines
-6. **Performance Tuning & In-House Dyno** — turbo / supercharger installation and calibration, fuel and cooling upgrades, documented builds up to 700 bhp
+6. **Performance Tuning** — turbo / supercharger installation and calibration, fuel and cooling upgrades, documented builds up to 700 bhp validated via partner-dyno runs
 7. **Forte Hydrogen Engine Clean** — non-invasive carbon clean for valves, pistons and intake; restores responsiveness and fuel economy; recommended every 30,000 km
 8. **General Servicing & Repairs** — manufacturer-schedule servicing with OEM parts, brakes, suspension, clutches, timing belts and chains, AC service and recharge, free estimates, courtesy vehicle, collection / delivery, and a complimentary post-service exterior clean
 
@@ -109,7 +109,7 @@ A: Yes. We are the authorized service centre for all three brands in the Ammocho
 A: 44 Filotheis, Industrial Zone, Paralimni 5286, Cyprus. Five minutes off the main road in the Paralimni industrial zone, with plenty of parking.
 
 **Q: Can you remap any car?**
-A: We are the main BHP UK agent in Cyprus and remap virtually any modern petrol, diesel, hybrid or forced-induction vehicle. Every remap is custom-written for your engine and validated on our in-house dyno.
+A: We are the main BHP UK agent in Cyprus and remap virtually any modern petrol, diesel, hybrid or forced-induction vehicle. Every remap is custom-written for your engine and validated through road testing, with optional partner-dyno runs for documented before/after power and torque graphs.
 
 **Q: Is ECU remapping legal in Cyprus?**
 A: Yes — ECU remapping itself is legal. EGR delete and DPF delete have specific legal and emissions considerations; we'll advise on what is appropriate for road or off-road use during your free estimate.
