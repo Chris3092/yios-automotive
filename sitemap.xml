@@ -4,158 +4,158 @@
 
   <!-- ===== Home ===== -->
   <url>
-    <loc>https://mvrachimisautomotive.com/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mvrachimisautomotive.com/"/>
+    <loc>https://www.mvrachimisautomotive.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.mvrachimisautomotive.com/"/>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://mvrachimisautomotive.com/el/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mvrachimisautomotive.com/"/>
+    <loc>https://www.mvrachimisautomotive.com/el/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.mvrachimisautomotive.com/"/>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://mvrachimisautomotive.com/ru/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/"/>
-    <xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mvrachimisautomotive.com/"/>
+    <loc>https://www.mvrachimisautomotive.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.mvrachimisautomotive.com/"/>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- ===== About ===== -->
-  <url><loc>https://mvrachimisautomotive.com/about.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/about.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/about.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/about.html"/><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/about.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/about.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/about.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/about.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/about.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/about.html"/><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/about.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/about.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- ===== Services ===== -->
-  <url><loc>https://mvrachimisautomotive.com/services.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/services.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/services.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/services.html"/><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/services.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/services.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/services.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/services.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/services.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/services.html"/><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/services.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/services.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
   <!-- ===== Gallery ===== -->
-  <url><loc>https://mvrachimisautomotive.com/gallery.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/gallery.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/gallery.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/gallery.html"/><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/gallery.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/gallery.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/gallery.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/gallery.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/gallery.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/gallery.html"/><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/gallery.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/gallery.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 
   <!-- ===== Contact ===== -->
-  <url><loc>https://mvrachimisautomotive.com/contact.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/contact.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/contact.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/contact.html"/><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/contact.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/contact.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/contact.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/contact.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/contact.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/contact.html"/><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/contact.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/contact.html</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- ===== Areas index ===== -->
-  <url><loc>https://mvrachimisautomotive.com/areas/</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/areas/"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/areas/"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/areas/"/><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/areas/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/areas/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/areas/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/areas/"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/areas/"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/areas/"/><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/areas/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/areas/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- ===== Areas / city landing pages ===== -->
-  <url><loc>https://mvrachimisautomotive.com/areas/paralimni.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/areas/paralimni.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/areas/paralimni.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/areas/paralimni.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/areas/paralimni.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/areas/paralimni.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/areas/paralimni.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/areas/paralimni.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/areas/paralimni.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/areas/paralimni.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/areas/paralimni.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/areas/paralimni.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/areas/ayia-napa.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/areas/ayia-napa.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/areas/ayia-napa.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/areas/ayia-napa.html"/><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/areas/ayia-napa.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/areas/ayia-napa.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/areas/ayia-napa.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/areas/ayia-napa.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/areas/ayia-napa.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/areas/ayia-napa.html"/><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/areas/ayia-napa.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/areas/ayia-napa.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/areas/protaras.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/areas/protaras.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/areas/protaras.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/areas/protaras.html"/><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/areas/protaras.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/areas/protaras.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/areas/protaras.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/areas/protaras.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/areas/protaras.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/areas/protaras.html"/><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/areas/protaras.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/areas/protaras.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/areas/famagusta.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/areas/famagusta.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/areas/famagusta.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/areas/famagusta.html"/><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/areas/famagusta.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/areas/famagusta.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/areas/famagusta.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/areas/famagusta.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/areas/famagusta.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/areas/famagusta.html"/><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/areas/famagusta.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/areas/famagusta.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/areas/larnaca.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/areas/larnaca.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/areas/larnaca.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/areas/larnaca.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/areas/larnaca.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/areas/larnaca.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/areas/larnaca.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/areas/larnaca.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/areas/larnaca.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/areas/larnaca.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/areas/larnaca.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/areas/larnaca.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/areas/nicosia.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/areas/nicosia.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/areas/nicosia.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/areas/nicosia.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/areas/nicosia.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/areas/nicosia.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/areas/nicosia.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/areas/nicosia.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/areas/nicosia.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/areas/nicosia.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/areas/nicosia.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/areas/nicosia.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/areas/limassol.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/areas/limassol.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/areas/limassol.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/areas/limassol.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/areas/limassol.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/areas/limassol.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/areas/limassol.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/areas/limassol.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/areas/limassol.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/areas/limassol.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/areas/limassol.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/areas/limassol.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/areas/paphos.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/areas/paphos.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/areas/paphos.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/areas/paphos.html"/><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/areas/paphos.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/areas/paphos.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/areas/paphos.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/areas/paphos.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/areas/paphos.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/areas/paphos.html"/><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/areas/paphos.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/areas/paphos.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
 
   <!-- ===== Articles index ===== -->
-  <url><loc>https://mvrachimisautomotive.com/articles/</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/"/><lastmod>2026-05-18</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/</loc><lastmod>2026-05-18</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/</loc><lastmod>2026-05-18</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/"/><lastmod>2026-05-18</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/</loc><lastmod>2026-05-18</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/</loc><lastmod>2026-05-18</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
 
   <!-- ===== Articles ===== -->
-  <url><loc>https://mvrachimisautomotive.com/articles/ecu-remapping-guide.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/ecu-remapping-guide.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/ecu-remapping-guide.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/ecu-remapping-guide.html"/><lastmod>2026-05-18</lastmod><priority>0.9</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/ecu-remapping-guide.html</loc><lastmod>2026-05-18</lastmod><priority>0.9</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/ecu-remapping-guide.html</loc><lastmod>2026-05-18</lastmod><priority>0.9</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/ecu-remapping-guide.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/ecu-remapping-guide.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/ecu-remapping-guide.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/ecu-remapping-guide.html"/><lastmod>2026-05-18</lastmod><priority>0.9</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/ecu-remapping-guide.html</loc><lastmod>2026-05-18</lastmod><priority>0.9</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/ecu-remapping-guide.html</loc><lastmod>2026-05-18</lastmod><priority>0.9</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/dpf-cleaning-vs-delete.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/dpf-cleaning-vs-delete.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/dpf-cleaning-vs-delete.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/dpf-cleaning-vs-delete.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/dpf-cleaning-vs-delete.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/dpf-cleaning-vs-delete.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/dpf-cleaning-vs-delete.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/dpf-cleaning-vs-delete.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/dpf-cleaning-vs-delete.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/dpf-cleaning-vs-delete.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/dpf-cleaning-vs-delete.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/dpf-cleaning-vs-delete.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/egr-delete-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/egr-delete-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/egr-delete-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/egr-delete-cyprus.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/egr-delete-cyprus.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/egr-delete-cyprus.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/egr-delete-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/egr-delete-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/egr-delete-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/egr-delete-cyprus.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/egr-delete-cyprus.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/egr-delete-cyprus.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/mot-cyprus-guide.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/mot-cyprus-guide.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/mot-cyprus-guide.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/mot-cyprus-guide.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/mot-cyprus-guide.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/mot-cyprus-guide.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/mot-cyprus-guide.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/mot-cyprus-guide.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/mot-cyprus-guide.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/mot-cyprus-guide.html"/><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/mot-cyprus-guide.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/mot-cyprus-guide.html</loc><lastmod>2026-05-18</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/cyprus-climate-car-care.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/cyprus-climate-car-care.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/cyprus-climate-car-care.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/cyprus-climate-car-care.html"/><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/cyprus-climate-car-care.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/cyprus-climate-car-care.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/cyprus-climate-car-care.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/cyprus-climate-car-care.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/cyprus-climate-car-care.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/cyprus-climate-car-care.html"/><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/cyprus-climate-car-care.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/cyprus-climate-car-care.html</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/forte-hydrogen-engine-clean.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/forte-hydrogen-engine-clean.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/forte-hydrogen-engine-clean.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/forte-hydrogen-engine-clean.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/forte-hydrogen-engine-clean.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/forte-hydrogen-engine-clean.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/forte-hydrogen-engine-clean.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/forte-hydrogen-engine-clean.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/forte-hydrogen-engine-clean.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/forte-hydrogen-engine-clean.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/forte-hydrogen-engine-clean.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/forte-hydrogen-engine-clean.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/car-ac-service-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/car-ac-service-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/car-ac-service-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/car-ac-service-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/car-ac-service-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/car-ac-service-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/car-ac-service-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/car-ac-service-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/car-ac-service-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/car-ac-service-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/car-ac-service-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/car-ac-service-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/adblue-problems-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/adblue-problems-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/adblue-problems-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/adblue-problems-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/adblue-problems-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/adblue-problems-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/adblue-problems-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/adblue-problems-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/adblue-problems-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/adblue-problems-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/adblue-problems-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/adblue-problems-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/pre-purchase-inspection-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/pre-purchase-inspection-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/pre-purchase-inspection-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/pre-purchase-inspection-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.9</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/pre-purchase-inspection-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.9</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/pre-purchase-inspection-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.9</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/pre-purchase-inspection-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/pre-purchase-inspection-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/pre-purchase-inspection-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/pre-purchase-inspection-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.9</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/pre-purchase-inspection-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.9</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/pre-purchase-inspection-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.9</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/dsg-gearbox-repair-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/dsg-gearbox-repair-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/dsg-gearbox-repair-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/dsg-gearbox-repair-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/dsg-gearbox-repair-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/dsg-gearbox-repair-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/dsg-gearbox-repair-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/dsg-gearbox-repair-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/dsg-gearbox-repair-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/dsg-gearbox-repair-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/dsg-gearbox-repair-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/dsg-gearbox-repair-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/air-suspension-repair-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/air-suspension-repair-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/air-suspension-repair-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/air-suspension-repair-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/air-suspension-repair-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/air-suspension-repair-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/air-suspension-repair-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/air-suspension-repair-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/air-suspension-repair-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/air-suspension-repair-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/air-suspension-repair-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/air-suspension-repair-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/ev-hybrid-servicing-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/ev-hybrid-servicing-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/ev-hybrid-servicing-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/ev-hybrid-servicing-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/ev-hybrid-servicing-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/ev-hybrid-servicing-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/ev-hybrid-servicing-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/ev-hybrid-servicing-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/ev-hybrid-servicing-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/ev-hybrid-servicing-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/ev-hybrid-servicing-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/ev-hybrid-servicing-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/wheel-alignment-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/wheel-alignment-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/wheel-alignment-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/wheel-alignment-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/wheel-alignment-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/wheel-alignment-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/wheel-alignment-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/wheel-alignment-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/wheel-alignment-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/wheel-alignment-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/wheel-alignment-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/wheel-alignment-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/engine-rebuild-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/engine-rebuild-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/engine-rebuild-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/engine-rebuild-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/engine-rebuild-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/engine-rebuild-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/engine-rebuild-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/engine-rebuild-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/engine-rebuild-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/engine-rebuild-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/engine-rebuild-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/engine-rebuild-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
 
-  <url><loc>https://mvrachimisautomotive.com/articles/authorized-honda-isuzu-kia-service-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mvrachimisautomotive.com/articles/authorized-honda-isuzu-kia-service-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://mvrachimisautomotive.com/el/articles/authorized-honda-isuzu-kia-service-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://mvrachimisautomotive.com/ru/articles/authorized-honda-isuzu-kia-service-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/el/articles/authorized-honda-isuzu-kia-service-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
-  <url><loc>https://mvrachimisautomotive.com/ru/articles/authorized-honda-isuzu-kia-service-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/articles/authorized-honda-isuzu-kia-service-cyprus.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.mvrachimisautomotive.com/articles/authorized-honda-isuzu-kia-service-cyprus.html"/><xhtml:link rel="alternate" hreflang="el" href="https://www.mvrachimisautomotive.com/el/articles/authorized-honda-isuzu-kia-service-cyprus.html"/><xhtml:link rel="alternate" hreflang="ru" href="https://www.mvrachimisautomotive.com/ru/articles/authorized-honda-isuzu-kia-service-cyprus.html"/><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/el/articles/authorized-honda-isuzu-kia-service-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
+  <url><loc>https://www.mvrachimisautomotive.com/ru/articles/authorized-honda-isuzu-kia-service-cyprus.html</loc><lastmod>2026-05-22</lastmod><priority>0.85</priority></url>
 
 </urlset>

@@ -211,7 +211,7 @@
       const message = encodeURIComponent(fd.get('message') || '');
       const subject = encodeURIComponent(`Service Enquiry — ${decodeURIComponent(service) || 'General'}`);
       const body = `Name: ${name}%0D%0APhone: ${phone}%0D%0AVehicle: ${vehicle}%0D%0AService: ${service}%0D%0A%0D%0A${message}`;
-      window.location.href = `mailto:mvrachimisautomotive@hotmail.com?subject=${subject}&body=${body}`;
+      window.location.href = `mailto:info@mvrachimisautomotive.com?subject=${subject}&body=${body}`;
     });
   }
 })();

@@ -1,5 +1,5 @@
 # Michalis Vrachimis & Yios Automotive Garage Ltd
-# https://mvrachimisautomotive.com/
+# https://www.mvrachimisautomotive.com/
 
 # === Standard search engines ===
 User-agent: *
@@ -76,4 +76,4 @@ User-agent: YandexBot
 Allow: /
 
 # Sitemaps
-Sitemap: https://mvrachimisautomotive.com/sitemap.xml
+Sitemap: https://www.mvrachimisautomotive.com/sitemap.xml
